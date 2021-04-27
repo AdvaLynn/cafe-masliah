@@ -15,6 +15,7 @@ Required Libraries
 Run development server:
 
 ```
+npm install
 npm run dev
 ```
 

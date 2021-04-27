@@ -5,13 +5,12 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 import Typography from "@material-ui/core/Typography";
 import Box from '@material-ui/core/Box';
 
-const Header = ({ title }) => (
+const Menu = ({ }) => (
   <React.Fragment>
     <CssBaseline />
     <Paper elevation={0}>
       <Box pt={2} pr={1} pb={1} pl={2}>
         <Typography align='center' variant='h3'>
-          {title}
         </Typography>
       </Box>
     </Paper>
@@ -19,4 +18,4 @@ const Header = ({ title }) => (
   </React.Fragment>
 );
 
-export default Header;
+export default Menu;

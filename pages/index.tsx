@@ -2,7 +2,8 @@
 import React from 'react';
 import Container from '@material-ui/core/Container';
 import Box from '@material-ui/core/Box';
-import { Header, Link } from '../src/components/index';
+import Link from '@material-ui/core/Link';
+import { Header } from './components/index';
 
 export default function Index() {
   return (
