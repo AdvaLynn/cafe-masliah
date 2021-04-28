@@ -9,7 +9,7 @@ Required Libraries
 - [Material-UI](https://material-ui.com/getting-started/installation/)
 
     ```
-    npm install @material-ui/core @material-ui/banner @material-ui/icons
+    npm install @material-ui/core
     ```
 
 Run development server:
